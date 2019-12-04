@@ -1,3 +1,4 @@
 # Dylan
-![<title>](<url of your image>)
-Create a link with a [<title>](<url>)
+![Bryan Valerio](<https://i.ytimg.com/vi/Zj2SCi6MeHw/hqdefault.jpg>)
+[Bryaaaan](https://i.ytimg.com/vi/Zj2SCi6MeHw/hqdefault.jpg)
+bruh
